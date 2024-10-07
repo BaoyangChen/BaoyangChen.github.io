@@ -53,8 +53,8 @@ Grass carp exhibited great adaptability to low salinity (2 ppt), with no signif
 - *2022.11*: &nbsp;🎉🎉 the **L.X.H-L.D scholarship** from Sun Yat-sen University 🎉🎉
 - *2022.09*: &nbsp;🎉🎉 the **first-class award** of the Guangdong province Yuequn cup Academic Forum Competition 🎉🎉
 - *2021.04*: &nbsp;🎉🎉 the **Outstanding Communist Youth League** member from Huazhong Agricultural University 🎉🎉
-- *2020.11*: &nbsp;🎉🎉 the **NMerit Student** from Huazhong Agricultural University 🎉🎉
-- *2020.08*: &nbsp;🎉🎉 the Fifth China Undergraduate Life Sciences Contest Second Prize 🎉🎉
+- *2020.11*: &nbsp;🎉🎉 the **Merit Student** from Huazhong Agricultural University 🎉🎉
+- *2020.08*: &nbsp;🎉🎉 the **Fifth China Undergraduate Life Sciences Contest** Second Prize 🎉🎉
 
 
 

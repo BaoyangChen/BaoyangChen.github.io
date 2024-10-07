@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Dingrui Liu (刘鼎瑞)"
-description              : "A proud SMARTer."
-repository               : "LiuDingrui9/Dingrui.github.io"
+title                    : "Baoyang Chen (陈宝杨)"
+description              : "A sweet girl."
+repository               : "BaoyangChen/BaoyangChen.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Dingrui Liu (刘鼎瑞)"
-  avatar           : "images/dingruiliu.png"
-  bio              : "SMART/Westlake University"
-  location         : "ShenZhen, China"
+  name             : "Baoyang Chen (陈宝杨)"
+  avatar           : "images/Baoyangchen.jpg"
+  bio              : "Sun Yat-sen University"
+  location         : "Guangzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "liudingrui@smart.org.cn"
-  researchgate     : "https://www.researchgate.net/profile/Dingrui-Liu-2"
+  email            : "cby0325@163.com"
+  researchgate     : "https://www.researchgate.net/profile/Baoyang-Chen-4"
   uri              :
   bitbucket        :
   codepen          :

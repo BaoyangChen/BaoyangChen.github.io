@@ -11,24 +11,16 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # ✌️ About me
-I am now a Ph.D. candidate of [Westlake University--SMART joint PhD programme](https://www.westlake.edu.cn/admissions_aid/graduate/zsdt1/202403/t20240304_37512.shtml) at [Westlake University](https://www.westlake.edu.cn/) and [SMART](https://smart.org.cn/). You can find my CV here:[Dingrui's Curriculum Vitae](assets/LIUDINGRUI CV.pdf). My previous research mainly focus on the application of bioinformatics in animal breeding. I have the background of processing sequencing data, analysis of transcriptome and GWAS, data visualization and wet experiment. My research interest now lays broadly in Bioinformatics and Computational Biology. My strength lies in my excellent command of English and my amiable personality, which empowers me to collaborate effectively with team members and achieve high productivity. If you are interested in my work, please feel free to drop me an email. 
+I am now a Ph.D. candidate of [Westlake University--SMART joint PhD programme](https://www.westlake.edu.cn/admissions_aid/graduate/zsdt1/202403/t20240304_37512.shtml) at [Westlake University](https://www.westlake.edu.cn/) and [SMART](https://smart.org.cn/). I am now a master's student at the School of Life Sciences, Sun Yat-sen University. This is my resume: Baoyang's Resume. At present, my research mainly focuses on revealing the nutrition and immune mechanisms of aquatic animals through transcriptomics and multi-omics joint analysis. I have a background in processing sequencing data, transcriptome analysis, and molecular biology experiments. My current research interests are widely in nutritional metabolism and signaling pathways. I have excellent English skills and an easy-going personality, and can effectively cooperate with team members to carry out work. If you are interested in my research, please feel free to contact me. 
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 Won the **first-class award** of the 1st Academic Forum Competition of department of science, Sun Yat-sen University! 🎉🎉
-- *2024.06*: &nbsp;🎉🎉 Been awarded as the **outstanding graduates** of Sun Yat-sen University! 🎉🎉
-- *2024.05*: &nbsp;🎉🎉 Officially accept PhD offer from **Westlake University--SMART joint PhD programme**! 🎉🎉
-- *2024.05*: &nbsp;🎉🎉 Received PhD offer from **Westlake University--SMART joint PhD programme**! 🎉🎉
-- *2024.05*: &nbsp;🎉🎉 Received PhD offer from **University of Chinese Academy of Sciences--BGI joint PhD programme** as rank No.1! 🎉🎉
-- *2024.03*: &nbsp;🎉🎉 My second research article got accepted by ***AQUACULTURE***!🎉🎉
-- *2023.12*: &nbsp;🎉🎉 Won the **first-class award** of the 2nd Academic Forum Competition of School of Life Sciences, Sun Yat-sen University! 🎉🎉
-- *2023.11*: &nbsp;🎉🎉 Received PhD offer from **University of Edingburgh**! 🎉🎉
-- *2023.10*: &nbsp;🎉🎉 Just won the **National postgraduate schloaship** (TOP 1%)! 🎉🎉
-- *2023.07*: &nbsp;🎉🎉 Just won the **first-class award** of the Guangdong province Yuequn cup Academic Forum Competition! 🎉🎉
-- *2023.06*: &nbsp;🎉🎉 Scored **7.0** in IELTS English test (R:7.5 S:6.5 L:7.5 W:6.25) ! 🎉🎉
-- *2023.04*: &nbsp;🎉🎉 Participated in the "Meeting with Youth" activities of French President **Emmanuel Macron**'s visit to Sun Yat-sen University! 🎉🎉
-- *2023.03*: &nbsp;🎉🎉 My first research article got accepted by ***AQUATIC TOXICOLOGY***!🎉🎉
-- *2022.08*: &nbsp;🎉🎉 Just won the **L.X.H-L.D scholarship** from Sun Yat-sen University! 🎉🎉
-- *2021.04*: &nbsp;🎉🎉 Got admitted by **Sun Yat-sen University** as rank No.1! 🎉🎉
+- *2024.07*: &nbsp;🎉🎉 Started submitting my second research article as the first author!! 🎉🎉
+- *2024.01*: &nbsp;🎉🎉 Started submitting my first research article as the first author! 🎉🎉
+- *2023.11*: &nbsp;🎉🎉 Participated in the 14th Symposium of World's Chinese Scientists on Nutrition and Feeding of Finfish and Shellfish (production of the PPT for oral presentation)! 🎉🎉
+- *2022.11*: &nbsp;🎉🎉 Just won the L.X.H-L.D scholarship from Sun Yat-sen University! 🎉🎉
+- *2021.10*: &nbsp;🎉🎉 Be recommended for postgraduate study and be admitted by Sun Yat-sen University! 🎉🎉
+- *2020.08*: &nbsp;🎉🎉 Just won the Fifth China Undergraduate Life Sciences Contest Second Prize!🎉🎉
+
 
 # 📝 Publications 
 
@@ -57,26 +49,17 @@ Grass carp exhibited great adaptability to low salinity (2 ppt), with no signif
 </div>
 
 # 🎖 Honors and Awards
-- *2024.06*: &nbsp;🎉🎉 the **first-class award** of the the 1st Academic Forum Competition of department of science, Sun Yat-sen University 🎉🎉
-- *2024.06*: &nbsp;🎉🎉 the **Outstanding Graduates** of Sun Yat-sen University 🎉🎉
-- *2023.12*: &nbsp;🎉🎉 the **first-class award** of the 2nd Academic Forum Competition of School of Life Sciences, Sun Yat-sen University 🎉🎉
-- *2023.10*: &nbsp;🎉🎉 the **National postgraduate schloaship** (TOP 1%) 🎉🎉
-- *2023.10*: &nbsp;🎉🎉 the **first-class award** of postgraduate school scholarship from Sun Yat-sen University 🎉🎉
-- *2023.07*: &nbsp;🎉🎉 the **first-class award** of the Guangdong province Yuequn cup Academic Forum Competition 🎉🎉
-- *2022.10*: &nbsp;🎉🎉 the **first-class award** of postgraduate school scholarship from Sun Yat-sen University 🎉🎉
-- *2022.08*: &nbsp;🎉🎉 the **L.X.H-L.D scholarship** from Sun Yat-sen University 🎉🎉
-- *2021.10*: &nbsp;🎉🎉 the **first-class award** of postgraduate school scholarship from Sun Yat-sen University 🎉🎉
+- *2024.09*: &nbsp;🎉🎉 the **first-class award** of postgraduate school scholarship from Sun Yat-sen University 🎉🎉
+- *2022.11*: &nbsp;🎉🎉 the **L.X.H-L.D scholarship** from Sun Yat-sen University 🎉🎉
+- *2022.09*: &nbsp;🎉🎉 the **first-class award** of the Guangdong province Yuequn cup Academic Forum Competition 🎉🎉
+- *2021.04*: &nbsp;🎉🎉 the **Outstanding Communist Youth League** member from Huazhong Agricultural University 🎉🎉
+- *2020.11*: &nbsp;🎉🎉 the **NMerit Student** from Huazhong Agricultural University 🎉🎉
+- *2020.08*: &nbsp;🎉🎉 the Fifth China Undergraduate Life Sciences Contest Second Prize 🎉🎉
+
 
 
 # 📖 Educations
-- *2024.09 - now*, PhD candidate, Westlake University. Shenzhen Medical Academy of Research and Translation, **SMART**, majoring in biology
-- *2021.09 - 2024.06*, Master of science, Sun Yat-sen University. School of Life Science, majoring in biology
-- *2017.09 - 2021.06*, Bachelor of Agriculture, South China Agrigulture University. School of Marine Science, majoring in aquaculture.
+- *2022.09 - now*, Master of Science, Sun Yat-sen University. School of Life Science, majoring in biology
+- *2018.09 - 2022.06*, Bachelor of Agriculture, Huazhong Agriculture University, School of Fisheries, majoring in aquaculture.
 
-# 💬 Invited Talks
-- *2024.06*, Effects of salinity on fish: From microbiota to muscle quality, The First Postgraduate Academic Achievements Exchange Report of Science Department of Sun Yat-sen University.  \| [\[news\]]([https://github.com/](https://lifesciences.sysu.edu.cn/zh-hans/article/4646))
-- *2023.10*, Effects of salinity on growth, physiology, biochemistry and gut microbiota of juvenile grass carp (*Ctenopharyngodon idella*), the 2nd Academic Forum Competition of School of Life Sciences.  \| [\[news\]]([https://github.com/](https://lifesciences.sysu.edu.cn/zh-hans/article/2544))
 
-# 💻 Internships
-- *2023.04 - 2022.08*, Guangzhou Nansha aquatic park industry co, ltd. Guangzhou, China.
-- *2021.10 - 2022.06*, Guangdong Liangshi aquatic breeding co, ltd. Foshan, China.

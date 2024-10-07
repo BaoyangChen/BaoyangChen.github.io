@@ -36,7 +36,7 @@ The inclusion of 0.02 to 0.08% *H. pluvialis* in the diet significantly enhanced
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Aquaculture Nutrition</div><img src='images/CBY-paper1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Aquaculture Nutrition</div><img src='images/CBY-paper1.jpg' alt="sym" width="150%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 Responses in growth performance, antioxidant capacity, hepatopancreas morphology, and non-specific immune function after functional protein peptide replace fishmeal in the Pacific white shrimp (*Litopenaeus vannamei*), ***Aquaculture Nutrition***

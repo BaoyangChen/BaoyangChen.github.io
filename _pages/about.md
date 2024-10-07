@@ -24,27 +24,27 @@ I am currently pursuing a master's degree at [the School of Life Sciences, Sun Y
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AQUACULTURE</div><img src='images/GYSZGWAS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Animal Nutrition</div><img src='images/CBY-paper2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Identification of SNPs and candidate genes associate with growth performance in all-female mandarin fish (*Siniperca chuatsi*) by a genome-wide association study](assets/1-s2.0-S0044848624002394-main.pdf), ***AQUACULTURE***
+Comparison effects of *Haematococcus pluvialis* on growth performance, hepatopancreatic transcriptome and resistance to ammonia-nitrogen stress of the Pacific white shrimp (*Litopenaeus vannamei*), ***Animal Nutrition***
 
-**Dingrui Liu**, Jin Zhang, Zhenjiang Zou, et al
+  **Baoyang Chen**, Haiqi Pu, Yongkang Chen, et al
 
 - 
-The first GWAS analysis on growth traits of all-female Mandarin fish (Dinggui I, *Siniperca Chuatsi*) was conducted. A total of 6 significant and 25 suggestive SNPs were detected on multiple chromosomes. The proportion of phenotypic variance explained for these SNPs ranged from 9.66% to 19.47% for growth traits. 
+The inclusion of 0.02 to 0.08% *H. pluvialis* in the diet significantly enhanced the growth performance of *L. vannamei*. The fitting curve analysis revealed that the optimal supplemental level of *H. pluvialis* for promoting *L. vannamei* growth was determined to be 0.1006%. After the termination of culture, *L. vannamei* was exposed to ammonia nitrogen stress. The supplementation with 0.08 to 0.32% enhanced the resistance of *L. vannamei* towards ammonia nitrogen stress, as evidenced by alterations in hepatopancreas, morphology and structure, cellular apoptosis, and immune gene expression.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AQUATIC TOXICOLOGY</div><img src='images/CAOYU.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Aquaculture Nutrition</div><img src='images/CBY-paper1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Effects of salinity on growth, physiology, biochemistry and gut microbiota of juvenile grass carp (*Ctenopharyngodon idella*)](assets/1-s2.0-S0166445X23000851-main.pdf), ***AQUATIC TOXICOLOGY***
+Responses in growth performance, antioxidant capacity, hepatopancreas morphology, and non-specific immune function after functional protein peptide replace fishmeal in the Pacific white shrimp (*Litopenaeus vannamei*), ***Aquaculture Nutrition***
 
-**Dingrui Liu**, Zhuowei Zhang, Yikun Song, et al
+**Baoyang Chen**, Jian Zong, Aihua Dong, et al
 
 - 
-Grass carp exhibited great adaptability to low salinity (2 ppt), with no significant difference in growth and maintained stable physiological and immune status. However, exposed to high salinity (6 ppt) caused deleterious effects on grass carp, including growth inhibition as well as physiological and immune-related changes. The gut microbiota in grass carp changed with salinity. 
+The growth performance of *L. vannamei* was not negatively affected by the substitution of FM with FPP at levels of 0 to 20%. Additionally, the replacement of FM at levels of 0 to 30% did not result in a significant change in the antioxidant capacity of the hepatopancreas in *L. vannamei*.  The incorporation of low levels of FM replacements has the potential to enhance the immunity and alter the structure of intestinal flora in *L. vannamei*. Ultimately, the optimal replacement level for FPP in shrimp feed is determined to be 20%, as it maximizes benefits while maintaining the growth and health of *L. vannamei*. This study holds great significance for advancing the development and utilization of novel protein sources in aquaculture.
 </div>
 </div>
 
